@@ -47,7 +47,8 @@ class _MyHomePageState extends State<MyHomePage> {
         decoration: const BoxDecoration(
           color: Colors.white,
           image: DecorationImage(
-            image: AssetImage('assets/images/idyllic_village.png'),
+            image:
+                NetworkImage('https://virikiri.b-cdn.net/idyllic_village.jpg'),
             fit: BoxFit.cover,
           ),
         ),
