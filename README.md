@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ## Chrome Build
 
 $ flutter run -d chrome --web-renderer html
+$ flutter build web --web-renderer html
